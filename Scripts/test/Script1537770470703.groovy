@@ -68,9 +68,9 @@ WebUI.click(findTestObject('Object Repository/createArticle/pubInfoTab'))
 
 WebUI.setText(findTestObject('Object Repository/createArticle/enterPubInfo') , articleContent)*/
 
-//WebUI.delay(5)
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/createArticle/pubInfoTab'))
+//WebUI.click(findTestObject('Object Repository/createArticle/pubInfoTab'))
 
 /*WebUI.click(findTestObject('Object Repository/createArticle/publicInfo'))
 
@@ -90,12 +90,12 @@ WebUI.setText(findTestObject('Object Repository/createArticle/articlePopupNotes'
 WebUI.click(findTestObject('Object Repository/createArticle/popupNotesConfirm'))
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/createArticle/searchKnowledge'), 60)
-WebUI.delay(5)
+
 WebUI.setText(findTestObject('Object Repository/createArticle/searchKnowledge'), articleContent)
-WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/createArticle/searchKM'))
 
-WebUI.delay(5)
+
 
 WebUI.click(findTestObject('Object Repository/logoutBtn'))
 WebUI.click(findTestObject('Object Repository/logoutConfirm'))
