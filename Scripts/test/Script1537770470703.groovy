@@ -68,7 +68,7 @@ WebUI.click(findTestObject('Object Repository/createArticle/pubInfoTab'))
 
 WebUI.setText(findTestObject('Object Repository/createArticle/enterPubInfo') , articleContent)*/
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 //WebUI.click(findTestObject('Object Repository/createArticle/pubInfoTab'))
 
