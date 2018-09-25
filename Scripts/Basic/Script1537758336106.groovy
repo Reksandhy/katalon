@@ -17,3 +17,5 @@ WebUI.acceptAlert()
 
 WebUI.clickImage(findTestObject(null))
 
+WebUI.delay(0)
+
