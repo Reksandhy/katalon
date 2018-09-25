@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>enterPubInfo</name>
+   <tag></tag>
+   <elementGuidId>be907bd9-e1a2-449c-9a8e-1466d9d9e31f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@id,'param_public')]//iframe[contains(@id,'txtContent_textarea')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@id,'param_public')]//iframe[contains(@id,'txtContent_textarea')]</value>
+   </webElementProperties>
+</WebElementEntity>

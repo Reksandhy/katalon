@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>warningOk</name>
+   <tag></tag>
+   <elementGuidId>b6f5b786-40ac-4692-b281-bc3d1429762a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[contains(@id,'ConcurrentLoginOptionsForm')]//button[contains(@id,'btnContinue')]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[contains(@id,'ConcurrentLoginOptionsForm')]//button[contains(@id,'btnContinue')]/span</value>
+   </webElementProperties>
+</WebElementEntity>

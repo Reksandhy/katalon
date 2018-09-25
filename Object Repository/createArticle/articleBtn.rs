@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>articleBtn</name>
+   <tag></tag>
+   <elementGuidId>696329aa-ecdd-44e4-990c-cdfed084abf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[contains(@id,'button_1_sc')][contains(@title,'Article')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[contains(@id,'button_1_sc')][contains(@title,'Article')]</value>
+   </webElementProperties>
+</WebElementEntity>
